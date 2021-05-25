@@ -13,7 +13,7 @@ git clone "https://github.com/rubakpryan/Recipe-Blog.git"
 ```
 
 ## Demo link
-[Recipe Blog Page demo link]()
+[Recipe Blog Page demo link](https://rubakpreyan.github.io/Recipe-Blog/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
